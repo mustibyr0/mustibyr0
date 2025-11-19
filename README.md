@@ -1,16 +1,28 @@
-## Hi there 👋
+<!--# Merhaba! 👋 Ben [Kullanıcı Adın]
 
-<!--
-**mustibyr0/mustibyr0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Siber güvenlik öğrencisi | Kodlama ile yeni şeyler öğreniyorum  
+💻 Başlıca teknolojiler: Python | C++ | Bash scripting  
+🎯 Hedef: Red Team alanında uzmanlaşmak
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Öğrenme & İlgi Alanlarım
+- Siber güvenlik ve etik hacking  
+- Ağ güvenliği ve penetration testing  
+- Kodlama: algoritmalar ve mini projeler  
+- Otomasyon scriptleri
+
+---
+
+## 📌 Yapacaklarım / Öğreneceklerim
+- [ ] Python ile ufak uygulamalar geliştirmek  
+- [ ] C++ ile algoritma projeleri yapmak  
+- [ ] Metasploit ve Red Team tekniklerini öğrenmek  
+- [ ] GitHub profilimi düzenli güncel tutmak
+
+---
+
+## 📫 İletişim
+- E-mail: [mustafabayar6164@gmail.com]
+
+> "Kod yazmak, sadece çözüm üretmek değil, aynı zamanda düşünmeyi öğrenmektir."
